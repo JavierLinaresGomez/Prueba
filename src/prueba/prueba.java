@@ -7,6 +7,7 @@ public class prueba {
 		System.out.println("asdfasdf");
 		
 		int r = 0;
+		int y = 0;
 
 	}
 	
